@@ -43,6 +43,7 @@ ToDoList.defaultProps = {
 const styles = StyleSheet.create({
     todoListForm: {
         margin: 10,
+        width: 300
     },
     todoItem: {
         flexDirection: "row",
