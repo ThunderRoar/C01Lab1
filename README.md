@@ -12,4 +12,4 @@ to keep track of your day to day tasks.
 ## Future Improvements
 * Implement a timeline feature to remind the user of their task deadlines
 * Add UI/UX features to elevate the application
-  > Add settings to customize the theme of application
+  - Add settings to customize the theme of application
