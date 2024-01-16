@@ -1,5 +1,3 @@
-# C01Lab1
-
 # Simple Todo List
 This application allows you to add/remove tasks from the main todo list for you  
 to keep track of your day to day tasks.
