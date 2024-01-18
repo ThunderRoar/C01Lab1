@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>TODO LIST</Text>
-      <ToDoList initialList={[]}/>
+      <ToDoList initialList={["Wash dishes", "Go for a walk", "Complete homework"]}/>
       <StatusBar style="auto" />
     </View>
   );
